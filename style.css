@@ -169,3 +169,70 @@ footer {
     font-size: 2.2rem;
   }
 }
+
+/* =========================
+   DISCORD INVITE PAGE
+========================= */
+
+.invite-logo {
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.5rem;
+  filter: drop-shadow(0 0 20px #00f0ff);
+}
+
+.discord-btn {
+  font-size: 1.2rem;
+}
+
+.secondary {
+  background: rgba(0, 30, 60, 0.4);
+  border: 1px solid #00f0ff33;
+}
+
+/* =========================
+   INVITE CARD
+========================= */
+
+.invite-card {
+  margin-top: 160px;
+  padding: 3rem 2.5rem;
+  max-width: 520px;
+  width: 100%;
+  text-align: center;
+
+  background: rgba(0, 20, 40, 0.75);
+  border-radius: 22px;
+  border: 1px solid #00f0ff55;
+  box-shadow: 0 0 40px rgba(0, 255, 255, 0.2);
+  backdrop-filter: blur(14px);
+}
+
+.invite-logo {
+  width: 110px;
+  height: 110px;
+  margin-bottom: 1.5rem;
+  filter: drop-shadow(0 0 20px #00f0ff);
+}
+
+.invite-card h1 {
+  font-size: 2.4rem;
+  color: #00f0ff;
+  text-shadow: 0 0 20px #00f0ff;
+  margin-bottom: 1rem;
+}
+
+.invite-card p {
+  color: #9eefff;
+  line-height: 1.6;
+  opacity: 0.9;
+}
+
+.discord-btn {
+  font-size: 1.15rem;
+}
+
+.secondary {
+  background: rgba(0, 30, 60, 0.4);
+  border: 1px solid #00f0ff33;
+}
